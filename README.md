@@ -1,8 +1,4 @@
-
-
 ![ME](ala-aburish.jpg)
-
-
 
 
 ## This is a summary for some reading topics
@@ -19,7 +15,7 @@ Here Are Links for Reads of what i'v learned in 201: (Created with Mark Down Cod
 
 N\D| Remote              | **Link**
 -- |---------------------|--------------------------------
-01- | Read 01             | [Link]()
+01- | Read 01             | [Link](https://alaa-rish.github.io/Code-201-Reading-Notes/class-01)
 02- | Read 02             | [Link]()
 03- | Read 03             | [Link]()
 04- | Read 04             | [Link]()
@@ -34,7 +30,3 @@ N\D| Remote              | **Link**
 13- | Read 13             | [Link]()
 14- | Read 14             | [Link]()
 15- | Read 15             | [Link]()
-
-
-
-
