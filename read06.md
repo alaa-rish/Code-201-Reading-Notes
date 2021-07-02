@@ -4,9 +4,9 @@
 
 ## ***Object Literals***
 
-<br>![ol](img/JS.jpg)
+![ol](img/JS.jpg)
 
-<br>A JavaScript object literal is a comma-separated list of name-value pairs wrapped in curly braces. Object literals encapsulate data, enclosing it in a tidy package. This minimizes the use of global variables which can cause problems when combining code.
+A JavaScript object literal is a comma-separated list of name-value pairs wrapped in curly braces. Object literals encapsulate data, enclosing it in a tidy package. This minimizes the use of global variables which can cause problems when combining code.
 
 Object literal property values can be of any data type, including array literals, functions, and nested object literals.
 
@@ -22,9 +22,9 @@ The below image explains the structure of the object :
 
 ## ***Document Object Model***
 
-<br>![dom](img/dom1)
+![dom](img/dom1)
 
-<br>A Document object represents the HTML document that is displayed in that window. The Document object has various properties that refer to other objects which allow access to and modification of document content. The way a document content is accessed and modified is called the Document Object Model, or DOM.
+A Document object represents the HTML document that is displayed in that window. The Document object has various properties that refer to other objects which allow access to and modification of document content. The way a document content is accessed and modified is called the Document Object Model, or DOM.
 
 With the object model, JavaScript gets all the power it needs to create dynamic HTML:
 

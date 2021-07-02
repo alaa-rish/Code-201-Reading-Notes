@@ -9,8 +9,7 @@
 2. Image hyperlink – Uses an image to take visitors to another page, file or document. 
 3. Bookmark hyperlink – Uses text or an image to take visitors to another part of a web page.
 
-<br>
-Links are created between the opening <a> tag and the closing </a> tag. 
+<br>Links are created between the opening <a> tag and the closing </a> tag. 
 
 The following image explains the structure of link writing:
 <br>
@@ -20,13 +19,10 @@ The following image explains the structure of link writing:
 ---
 
 ## ***Layout***
+<br>![layout](https://i1.wp.com/masterprograming.com/wp-content/uploads/2021/01/image-10.png?w=628&ssl=1)
+<br>What is an HTML Layout? A page layout defines the appearance of a website. An HTML layout is a structure that helps the user navigate through web pages easily. It is a way in which you can design web pages using simple HTML tags.
 
-![layout](https://i1.wp.com/masterprograming.com/wp-content/uploads/2021/01/image-10.png)
-
-What is an HTML Layout? A page layout defines the appearance of a website. An HTML layout is a structure that helps the user navigate through web pages easily. It is a way in which you can design web pages using simple HTML tags.
-
-<br>
-Layout tags :
+<br>Layout tags :
 
 + `<header>` - Defines a header for a document or a section
 + `<nav>` - Defines a set of navigation links
@@ -40,9 +36,8 @@ Layout tags :
 ---
   
 ## ***Functions***
-
-![functions](https://miro.medium.com/max/1400/1*dAwQkc-E0j1AcpdPeGznzg.png)
-A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
+<br>![functions](https://miro.medium.com/max/1400/1*dAwQkc-E0j1AcpdPeGznzg.png)
+<br>A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
 
 ---
 
