@@ -1,6 +1,6 @@
 # HTML Lists, Control Flow with JS, and the CSS Box Model
 
-![html-lists](html-lists.jpg)
+![html-lists](img/html-lists.jpg)
 <br>
 ## ***Lists***
 
