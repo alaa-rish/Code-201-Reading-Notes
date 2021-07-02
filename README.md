@@ -15,9 +15,9 @@ Here Are Links for Reads of what i'v learned in 201: (Created with Mark Down Cod
 
 N\D| Remote              | **Link**
 -- |---------------------|--------------------------------
-01- | Read 01             | [Link](https://alaa-rish.github.io/Code-201-Reading-Notes/class-01)
+01- | Read 01             | [Link](read01.md)
 02- | Read 02             | [Link]()
-03- | Read 03             | [Link]()
+03- | Read 03             | [Link](read03.md)
 04- | Read 04             | [Link]()
 05- | Read 05             | [Link]()
 06- | Read 06             | [Link]()
