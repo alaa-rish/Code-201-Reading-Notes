@@ -25,7 +25,7 @@ N\D| Remote              | **Link**
 08- | Read 08             | [Link](read08.md)
 09- | Read 09             | [Link](read09.md)
 10- | Read 10             | [Link](read10.md)
-11- | Read 11             | [Link]()
+11- | Read 11             | [Link](read11.md)
 12- | Read 12             | [Link]()
 13- | Read 13             | [Link]()
 14- | Read 14             | [Link]()
