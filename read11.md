@@ -10,9 +10,9 @@ The `<img>` tag is used to insert images in the HTML documents. It is an empty e
 
 **The following example inserts three images on the web page:**
 
-1- `<img src="kites.jpg" alt="Flying Kites">`
-2- `<img src="sky.jpg" alt="Cloudy Sky">`
-3- `<img src="balloons.jpg" alt="Balloons">`
+- `<img src="kites.jpg" alt="Flying Kites">`
+- `<img src="sky.jpg" alt="Cloudy Sky">`
+- `<img src="balloons.jpg" alt="Balloons">`
 
 Each image must carry at least two attributes: the `src` attribute, and an `alt` attribute.
 
@@ -26,16 +26,16 @@ The `width` and `height` attributes are used to specify the width and height of 
 The values of these attributes are interpreted in pixels by default.
 
 **Example**
-1- `<img src="kites.jpg" alt="Flying Kites" width="300" height="300">`
-2- `<img src="sky.jpg" alt="Cloudy Sky" width="250" height="150">`
-3- `<img src="balloons.jpg" alt="Balloons" width="200" height="200">`
+- `<img src="kites.jpg" alt="Flying Kites" width="300" height="300">`
+- `<img src="sky.jpg" alt="Cloudy Sky" width="250" height="150">`
+- `<img src="balloons.jpg" alt="Balloons" width="200" height="200">`
 
 
 You can also use the style attribute to specify width and height for the images. It prevents style sheets from changing the image size accidently, since inline style has the highest priority.
 **Example**
-1- `<img src="kites.jpg" alt="Flying Kites" style="width: 300px; height: 300px;">`
-2- `<img src="sky.jpg" alt="Cloudy Sky" style="width: 250px; height: 150px;">`
-3- `<img src="balloons.jpg" alt="Balloons" style="width: 200px; height: 200px;">`
+- `<img src="kites.jpg" alt="Flying Kites" style="width: 300px; height: 300px;">`
+- `<img src="sky.jpg" alt="Cloudy Sky" style="width: 250px; height: 150px;">`
+- `<img src="balloons.jpg" alt="Balloons" style="width: 200px; height: 200px;">`
 
 
 ## Using the HTML5 Picture Element
@@ -129,15 +129,15 @@ In addition to these features, web analytics may track the clickthrough and dril
 ### Web analytics process
 The web analytics process involves the following steps:
 
-1- **Setting goals.** The first step in the web analytics process is for businesses to determine goals and the end results they are trying to achieve. These goals can include increased sales, customer satisfaction and brand awareness. Business goals can be both quantitative and qualitative.
+- **Setting goals.** The first step in the web analytics process is for businesses to determine goals and the end results they are trying to achieve. These goals can include increased sales, customer satisfaction and brand awareness. Business goals can be both quantitative and qualitative.
 
-2- **Collecting data.** The second step in web analytics is the collection and storage of data. Businesses can collect data directly from a website or web analytics tool, such as Google Analytics. The data mainly comes from Hypertext Transfer Protocol requests -- including data at the network and application levels -- and can be combined with external data to interpret web usage. For example, a user's Internet Protocol address is typically associated with many factors, including geographic location and clickthrough rates.
+- **Collecting data.** The second step in web analytics is the collection and storage of data. Businesses can collect data directly from a website or web analytics tool, such as Google Analytics. The data mainly comes from Hypertext Transfer Protocol requests -- including data at the network and application levels -- and can be combined with external data to interpret web usage. For example, a user's Internet Protocol address is typically associated with many factors, including geographic location and clickthrough rates.
 
-3- **Processing data.** The next stage of the web analytics funnel involves businesses processing the collected data into actionable information.
+- **Processing data.** The next stage of the web analytics funnel involves businesses processing the collected data into actionable information.
 
-4- **Identifying key performance indicators (KPIs).** In web analytics, a KPI is a quantifiable measure to monitor and analyze user behavior on a website. Examples include bounce rates, unique users, user sessions and on-site search queries.
+- **Identifying key performance indicators (KPIs).** In web analytics, a KPI is a quantifiable measure to monitor and analyze user behavior on a website. Examples include bounce rates, unique users, user sessions and on-site search queries.
 
 
-5- **Developing a strategy.** This stage involves implementing insights to formulate strategies that align with an organization's goals. For example, search queries conducted on-site can help an organization develop a content strategy based on what users are searching for on its website.
+- **Developing a strategy.** This stage involves implementing insights to formulate strategies that align with an organization's goals. For example, search queries conducted on-site can help an organization develop a content strategy based on what users are searching for on its website.
 
-6- **Experimenting and testing.** Businesses need to experiment with different strategies in order to find the one that yields the best results. For example, A/B testing is a simple strategy to help learn how an audience responds to different content. The process involves creating two or more versions of content and then displaying it to different audience segments to reveal which version of the content performs better.
+- **Experimenting and testing.** Businesses need to experiment with different strategies in order to find the one that yields the best results. For example, A/B testing is a simple strategy to help learn how an audience responds to different content. The process involves creating two or more versions of content and then displaying it to different audience segments to reveal which version of the content performs better.
